@@ -1,7 +1,7 @@
 # NHANES Exposome Project: Predicting Obesity through Blood Chemistry
 
 ### Project Overview
-This project explores the **"Exposome"**—the measure of all the environmental exposures of an individual—using the NHANES (National Health and Nutrition Examination Survey) dataset. 
+This project explores the **"Exposome"** which is the measure of all the environmental exposures of an individual using the NHANES (National Health and Nutrition Examination Survey) dataset. 
 
 The goal was to see if we could predict a person's clinical status (like Obesity) purely by looking at biomarkers in the blood rather than just demographic data or lifestyle surveys.
 
