@@ -15,7 +15,7 @@ I moved the focus to **Obesity** (defined as BMI ≥ 30) because it provided a m
 ### What We Learnt
 * **The Inflammatory Signal:** Our model (using **Random Forest** and **Hist-Gradient Boosting**) identified **C-Reactive Protein (CRP)** and **Triglycerides** as top predictors. This confirms the scientific theory that obesity is a state of chronic systemic inflammation.
 * **Algorithm Performance:** I achieved a stable **~93% accuracy** with Random Forest. I also implemented Histogram-based Gradient Boosting to handle missing data naturally, which is a common issue in real-world clinical datasets.
-* **Feature Importance:** By excluding "obvious" features like BMI from the training set, we proved that blood chemistry alone can identify a person's metabolic health with high precision.
+* **Feature Importance:** By excluding "obvious" features like BMI from the training set, I proved that blood chemistry alone can identify a person's metabolic health with high precision.
 
 ### How to Use
 1. Clone the repo.
